@@ -1,0 +1,6 @@
+# Add required Python libraries here
+openai
+speechrecognition
+pyttsx3
+flask
+requests
